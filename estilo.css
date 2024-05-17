@@ -1,0 +1,36 @@
+#contenedor{
+    width:50%;
+    height: 500px;
+    border:1px solid red;
+    margin:25px auto;
+
+}
+#cabecera{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+#nav{
+    height: 50px;;
+    border:1px solid blue
+}
+#menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    text-decoration: none;
+    padding:5px;
+    
+    margin:5px;
+    background-color: blue;
+    color:white;
+}
+#contenido{
+    padding:10px;
+}
+img{
+    float:left;
+    margin:10px;
+}
